@@ -130,7 +130,7 @@ section.wrapper .puzzle .animationBox .block3 {
         width: 100%;
     }
     section.wrapper .setLevel{
-        width: 100%;
+        width: 250px;
     }
     section.wrapper .setLevel .level {
         width: 60px;
